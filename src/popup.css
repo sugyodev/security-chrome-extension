@@ -1,0 +1,23 @@
+html, body {
+    height: 125px;
+}
+
+input {
+    width: 275px;
+    margin: 15px;
+    padding: 5px;
+}
+
+h2 {
+    margin: 0;
+}
+
+.footer-message {
+    display: block;
+    font-size: 0.9em;
+}
+
+#reset {
+    float: right;
+    margin-bottom: 4px;
+}
